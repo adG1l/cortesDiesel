@@ -227,3 +227,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Credentials
+certs/
